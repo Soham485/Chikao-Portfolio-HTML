@@ -12,12 +12,17 @@ E5ECE9
 
 #learner::after {content: "learner";}
 #learner:hover::after {content:"coder";}
+
 #am::after {content:'am I?';}
 #am:hover::after {content:'is Chikao?'}
+
 #powerful::after {content:'powerful';}
 #powerful:hover::after {content:'formidable';}
+
 #unbeatable::after {content:'unbeatable';}
 #unbeatable:hover::after {content:'invincible';}
-#me:hover::after {content:'Chikao';}
+
 #me::after {content:'me';}
+#me:hover::after {content:'Chikao';}
+
 #icon{display:block;height:100px;width: auto;margin-left:auto;margin-right: auto;}
