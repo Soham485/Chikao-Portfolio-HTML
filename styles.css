@@ -9,3 +9,15 @@ E5ECE9
 * {font-family: Verdana,sans-serif;background-color: #1F2232;color:#E5ECE9;}
 
 .portfolio {text-align: center;}
+
+#learner::after {content: "learner";}
+#learner:hover::after {content:"coder";}
+#am::after {content:'am I?';}
+#am:hover::after {content:'is Chikao?'}
+#powerful::after {content:'powerful';}
+#powerful:hover::after {content:'formidable';}
+#unbeatable::after {content:'unbeatable';}
+#unbeatable:hover::after {content:'invincible';}
+#me:hover::after {content:'Chikao';}
+#me::after {content:'me';}
+#icon{display:block;height:100px;width: auto;margin-left:auto;margin-right: auto;}
