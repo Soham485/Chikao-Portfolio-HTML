@@ -1,1 +1,12 @@
-* {font: Verdana,sans-serif;}
+/*
+color-palette:-
+1F2232
+E5ECE9
+6290C8
+*/
+
+
+
+* {font-family: Verdana,sans-serif;background-color: #1F2232;color:#E5ECE9;}
+
+.portfolio {text-align: center;}
