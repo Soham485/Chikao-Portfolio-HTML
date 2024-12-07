@@ -12,3 +12,10 @@ E5ECE9
 
 #learner::after {content: "learner";}
 #learner:hover::after {content:"coder";}
+
+#am::after {content:'am I?';}
+#am:hover::after {content:'is Chikao?'}
+
+
+
+#icon{display:block;height:100px;}
